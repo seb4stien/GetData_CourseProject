@@ -40,5 +40,5 @@ Columns are:
 	* STANDING
 	* LAYING
 * subject: subject id (integer from 1 to 30)
-* xxx.mean[.X|Y|Z]: mean of feature xxx mean (see features.info)
-* xxx.std: mean of feature xxx standard deviation (see features.info)
+* xxx.mean[.X|Y|Z]: mean of feature xxx mean (see features_info.txt from the original data)
+* xxx.std: mean of feature xxx standard deviation (see features_info.txt from the original data)
