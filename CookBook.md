@@ -33,12 +33,12 @@ Each row contains the mean of a feature regarding an activity for a subject.
 
 Columns are:
 * activity: a label for the activity
-** WALKING
-** WALKING_UPSTAIRS
-** WALKING_DOWNSTAIRS
-** SITTING
-** STANDING
-** LAYING
+	* WALKING
+	* WALKING_UPSTAIRS
+	* WALKING_DOWNSTAIRS
+	* SITTING
+	* STANDING
+	* LAYING
 * subject: subject id (integer from 1 to 30)
 * xxx.mean[.X|Y|Z]: mean of feature xxx mean (see features.info)
 * xxx.std: mean of feature xxx standard deviation (see features.info)
